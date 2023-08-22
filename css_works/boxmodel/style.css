@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.section{
+    height:70px;
+    width: 70%;
+    border: 1px solid black;
+    text-align: center;
+    padding-top: 55px;
+}
+.navbar{
+    background-color: aqua;
+
+    margin:40px 0px 0px 15%;
+}
+.footer{
+    background-color: rgb(44, 160, 160);
+    margin-top: 420px;
+    margin-left: 15%;
+}
+

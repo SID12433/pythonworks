@@ -1,0 +1,30 @@
+.row{
+    width: 100%;
+    height: 300px;
+    background-color: aquamarine;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+.item{
+    border: 1px solid black;
+    background-color: bisque;
+    color: black;
+    /* font-weight: bolder; */
+}
+.item:hover{
+    background-color: blue;
+    cursor: crosshair;
+}
+.item:nth-child(2){
+    background-color: cadetblue;
+    grid-column-start: 2;
+    grid-column-end: 4;
+
+}
+.item:nth-child(1){
+    background-color: cadetblue;
+    grid-row-start: 1;
+    grid-row-end: 3;
+
+}

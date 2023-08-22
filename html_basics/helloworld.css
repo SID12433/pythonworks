@@ -1,0 +1,8 @@
+nav :hover{
+    color: rgb(20, 246, 84);
+    
+}
+
+nav,a{
+    text-decoration: none;
+}

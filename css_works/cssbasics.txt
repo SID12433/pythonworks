@@ -1,0 +1,12 @@
+css 
+
+3 types
+1. inline
+2. internal
+3. external
+
+style="property:value"
+
+multiple classes can be given in sigle classes
+
+class="heading heading1"

@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+/* h1{
+    color:aqua;
+    text-decoration: underline;
+} */
+a{
+    color: white;
+    text-decoration: none;
+}
+#id_dog{
+    color: yellow;
+}
+#id_fish{
+    color: red;
+}
+#id_cat{
+    color: lightgreen;
+}
+
+.heading{
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.heading-success{
+    color: lightgreen;
+}
+.card{
+    background-color: aquamarine;
+    width: 30%;
+    height: 300px;
+}
